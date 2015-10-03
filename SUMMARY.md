@@ -8,4 +8,6 @@
 * [图书格式](booksetup/README.md)
 	* [关于README](booksetup/AboutREADME.md)
 	* [图书章节](booksetup/AboutSummary.md)
-
+* [与Github整合](build/README.md)
+	* [Update with GIT](build/withgit.md)
+	* [Link Github](build/linkgithub.md)
