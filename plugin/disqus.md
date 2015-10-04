@@ -31,4 +31,9 @@
 
 你也可以参考这篇较好的[Gitbook教程](http://www.chengweiyang.cn/gitbook/plugins/functional/disqus.html)
 
+- 效果
+	- 在每一个页面都出现一下Disqus评论窗口
 
+<center>
+![disqus-01](https://raw.githubusercontent.com/JeremiahZhang/gitbookguide/master/_images/disqus-01.JPG)
+</center>  

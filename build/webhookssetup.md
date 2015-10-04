@@ -15,3 +15,9 @@
 <center>
 ![webhooks2](https://raw.githubusercontent.com/JeremiahZhang/gitbookguide/master/_images/webhooks2.JPG)
 </center>  
+
+- 效果
+	- 我只要直接push to github repo 就可以更新gitbook书籍
+	- 不过别着急 慢慢等 Gitbook 网页会有如下提示
+
+>  Your book is currently being updated, this can take up to a few minutes. 
