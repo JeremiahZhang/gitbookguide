@@ -11,4 +11,7 @@
 * [与Github整合](build/README.md)
 	* [Update with GIT](build/withgit.md)
 	* [Link Github](build/linkgithub.md)
+	* [webhooks setup](build/webhookssetup.md))
+* [插件](plugin/README.md)
+	* [Disqus](plugin/disqus.md))
 * [写在最后](end/README.md)
