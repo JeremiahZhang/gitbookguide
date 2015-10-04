@@ -1,8 +1,8 @@
 {
-    "plugins": [
-        "disqus"
-    ],
+    "plugins": ["disqus"],
     "pluginsConfig": {
-        "shortName": "LeiyuZhang"
-    }
+        "disqus": {
+            "shortName": "LeiyuZhang"
+        }
+    }  
 }
