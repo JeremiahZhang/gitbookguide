@@ -33,7 +33,7 @@
 - 在所<node.js所在文件名> cmd 执行 npm install gitbook-cli -g
 - $ gitbook 查看安装是否成功
 - $ gitbook -V 查看version
-- $ gitbook versions:install lastest 安装最新版本的 gitbook
+- $ gitbook versions:install latest 安装最新版本的 gitbook
 
 ### 我的新书 ###
 
@@ -48,4 +48,4 @@
 - $ gitbook serve 可以查看书籍网址http://localhost:4000/ 在浏览器中键入 就可以查看了 当退出该 serving 的时候 图书网址没有用 
 - $ echo "# bookname" > README.md 修改书名 这个也可以直接在README.md中进行修改
 
-主要参考文章[buntu環境下，快速開始使用gitbook](http://samwhelp.github.io/blog/read/platform/gitbook/start/)
+主要参考文章[ubuntu環境下，快速開始使用gitbook](http://samwhelp.github.io/blog/read/platform/gitbook/start/)
